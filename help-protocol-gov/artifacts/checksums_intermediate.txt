@@ -1,0 +1,1 @@
+cfb26fc96df79f8edfcb02c74adb90db0f20a43927a8c158a5f9ed62affc6fd6  ./target/wasm32-unknown-unknown/release/help_protocol_gov.wasm
